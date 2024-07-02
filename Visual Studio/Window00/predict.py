@@ -41,6 +41,7 @@ def main(array_string):
         
         predictions = model.predict(X_convert)
         readable_predictions = [f"{pred:,.0f}" for pred in predictions]
+        readable_predictions[0] = readable_predictions[0].replace(",", "")
         with open('hasil.txt', 'w') as file:
             file.write(str(readable_predictions[0]))
         
