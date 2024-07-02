@@ -1,0 +1,12 @@
+﻿C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets(531,5): warning MSB8028: The intermediate directory (x64\Debug\) contains files shared from another project (Window00.vcxproj).  This can lead to incorrect clean and rebuild behavior.
+  main.cpp
+C:\Users\Aspire 5\Desktop\Aplikasi\Visual Studio\Window00\main.cpp(180,15): warning C4244: 'return': conversion from 'WPARAM' to 'int', possible loss of data
+C:\Users\Aspire 5\Desktop\Aplikasi\Visual Studio\Window00\main.cpp(356,31): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\Aspire 5\Desktop\Aplikasi\Visual Studio\Window00\main.cpp(357,32): warning C4244: 'initializing': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\Aspire 5\Desktop\Aplikasi\Visual Studio\Window00\main.cpp(364,40): warning C4244: '=': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\Aspire 5\Desktop\Aplikasi\Visual Studio\Window00\main.cpp(365,41): warning C4244: '=': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\Aspire 5\Desktop\Aplikasi\Visual Studio\Window00\main.cpp(368,40): warning C4244: '=': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\Aspire 5\Desktop\Aplikasi\Visual Studio\Window00\main.cpp(369,41): warning C4244: '=': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\Aspire 5\Desktop\Aplikasi\Visual Studio\Window00\main.cpp(373,40): warning C4244: '=': conversion from 'LRESULT' to 'int', possible loss of data
+C:\Users\Aspire 5\Desktop\Aplikasi\Visual Studio\Window00\main.cpp(374,41): warning C4244: '=': conversion from 'LRESULT' to 'int', possible loss of data
+  Window00.vcxproj -> C:\Users\Aspire 5\Desktop\Aplikasi\Visual Studio\x64\Debug\PrediksiHargaRumahAPP.exe
